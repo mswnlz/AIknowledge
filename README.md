@@ -2,6 +2,12 @@
 AI相关知识，提示词，教程，视频教程，变现课程等资料，持续更新中
 
 
+// 20250514
+### deepseek常用润色指令合集
+Deepseek指令合集（更新中）大合集汇总
+链接：https://pan.quark.cn/s/db897e420f83
+
+
 ### 梅俊-如何用AI辅助高效写公文16讲（完结）
 链接：https://pan.quark.cn/s/1bd84db577eb
 
