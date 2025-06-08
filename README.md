@@ -1,6 +1,9 @@
 # AIknowledge
 AI相关知识，提示词，教程，视频教程，变现课程等资料，持续更新中
 
+### 0成本用国内身份证注册SafePal万事达卡：GCP/Cloudflare绑卡实测保姆级教程
+https://s.869hr.uk/2hm
+
 ### 「【实操教程】coze工作流+Deepseek一键自动生成国风养生视频，手把手教你制作古风养生中医视频！AI智能体一键生成」
 链接：https://pan.quark.cn/s/7ab77374a6be
 
