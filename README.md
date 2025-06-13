@@ -4,70 +4,8 @@ AI相关知识，提示词，教程，视频教程，变现课程等资料，持
 
 [English](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=en) | [简体中文](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=zh-CN) | [繁體中文](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=zh-TW) | [日本語](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=ja) | [한국어](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=ko) | [हिन्दी](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=hi) | [ไทย](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=th) | [Français](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=fr) | [Deutsch](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=de) | [Español](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=es) | [Italiano](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=it) | [Русский](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=ru) | [Português](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=pt) | [Nederlands](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=nl) | [Polski](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=pl) | [العربية](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=ar) | [فارسی](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=fa) | [Türkçe](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=tr) | [Tiếng Việt](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=vi) | [Bahasa Indonesia](https://openaitx.github.io/view.html?user=mswnlz&project=AIknowledge&lang=id)
 
-
-### 0成本用国内身份证注册SafePal万事达卡：GCP/Cloudflare绑卡实测保姆级教程
-https://s.869hr.uk/2hm
-
-### 「【实操教程】coze工作流+Deepseek一键自动生成国风养生视频，手把手教你制作古风养生中医视频！AI智能体一键生成」
-链接：https://pan.quark.cn/s/7ab77374a6be
-
-// 20250514
-### deepseek常用润色指令合集
-Deepseek指令合集（更新中）大合集汇总
-链接：https://pan.quark.cn/s/db897e420f83
-
-
-### 梅俊-如何用AI辅助高效写公文16讲（完结）
-链接：https://pan.quark.cn/s/1bd84db577eb
-
-
-### AI办公零基础到精通
-链接：https://pan.quark.cn/s/40b62297149e
-
-### 豆包 AI 全能训练营从小白到高手，
-
-
-豆包AI全能训练营汇聚30节实战视频课程，涵盖从平台介绍到进阶应用的全流程内容。培训内容涉及豆包基本功能、智能体构建与交互方式、提示词优化以及多领域写作辅助。课程同时深入讲解图像生成、社交媒体内容创作与短视频脚本等热门领域，提供市场调研、工作总结、教学教案等实用技能。通过真实案例和操作演示，实现从入门到精通的转变，助力用户在人工智能与数字营销时代占据先机。
-
-
-链接：https://pan.quark.cn/s/8529216ffc06
-
-### AI绘画全新课程
-AI小白变大神COMFYUI+PS全新工作流课程
-
-链接：https://pan.quark.cn/s/e8509fa1545f
-
-### 【14门付费AI课合集】看完工作效率瞬间提高
-
-月入3W+的AI搞钱项目！一个人也能轻松拿捏！
-
-分享几个用 Ai 做副业搞钱方法，坚持去执行的小伙伴反馈都很好
-
-这几个很火的项目，可以去试试哦
-https://pan.quark.cn/s/e9b9de0df191
-
-### 「AI 大模型应用开发模型训练落地」
-链接：https://pan.quark.cn/s/ae67c5a6b613
-
-### DeepSeek+AI玩转公众号流量主，夸克网盘课程。
-在自媒体蓬勃发展的时代，掌握公众号运营技巧已成为内容创业者的必修课。这套课程体系覆盖从账号注册到收益变现的全链路操作，手把手演示电脑端与移动端双平台注册流程，详解基础设置中的四个关键配置项，帮助新手快速完成账号搭建。
-创作环节聚焦爆款内容生产，不仅提供25个垂直领域的选题方向库，更结合AI指令优化技术提升写作效率。课程特别设置排版美学模块，解析留白比例与字体搭配的视觉密码，配合持续更新的对标账号库，让创作者精准把握行业热点趋势。
-流量主开通与赞赏功能设置构成收益双引擎，教学视频详细拆解平台审核规则与避坑策略。AI工具集持续扩充最新应用，从标题生成到用户画像分析，智能辅助提升内容传播效能。实战案例展示如何运用数据分析优化推送时段，结合平台算法特性实现精准入池，为创作者打开流量变现新通路。
-定期更新的运营指南紧跟平台政策变化，既涵盖基础操作如收款账户绑定，也深入探讨用户留存率提升等进阶课题。这套动态知识体系如同数字罗盘，指引内容创业者避开雷区，在公众号生态中稳健成长。
-链接：https://pan.quark.cn/s/0e82959e80db
-
-### 「李尚龙《AI时代的弯道超车：用人工智能逆袭人生专栏》」
-链接：https://pan.quark.cn/s/982cbd651623
-
-### 「80 节 AI 指令实战课程 + 案例分享」
-链接：https://pan.quark.cn/s/fc431b7f4e11
-
-### 「AI 创意与短视频剪辑全攻略从入门到变现」
-链接：https://pan.quark.cn/s/8b96a1ea91b1
-
-### 「韩超·AI工人工智能应用通用实操（进阶班），利用AIGC技术为行业赋能，实现变现」
-链接：https://pan.quark.cn/s/9f0a1127df08
-
+------------
+[202505](202505.md)
 
 
 ---------------
