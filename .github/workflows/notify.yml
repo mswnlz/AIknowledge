@@ -18,13 +18,14 @@ jobs:
         run: |
           IFS=',' read -ra IDS <<< "$CHAT_IDS"
           for chat in "${IDS[@]}"; do
-            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            response=$(curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
               -d chat_id="$chat" \
               --data-urlencode "text=📢 [${{ github.repository }}] 有新提交！
               👤 作者: ${{ github.actor }}
               📝 提交说明: ${{ github.event.head_commit.message }}
               🔗 查看: https://github.com/${{ github.repository }}/commit/${{ github.sha }}" \
               -d parse_mode="Markdown"
+            echo "Telegram response for chat_id $chat: $response"
           done
 
-
+          
