@@ -16,6 +16,8 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_IDS: ${{ vars.TELEGRAM_CHAT_IDS }}
         run: |
+          echo "BOT_TOKEN: $BOT_TOKEN"
+          echo "CHAT_IDS: $CHAT_IDS"
           IFS=',' read -ra IDS <<< "$CHAT_IDS"
           for chat in "${IDS[@]}"; do
             response=$(curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
