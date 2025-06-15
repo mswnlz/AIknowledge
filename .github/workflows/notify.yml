@@ -19,8 +19,8 @@ jobs:
           for chat in "${IDS[@]}"; do
             curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
               -d chat_id="$chat" \
-              --data-urlencode "text=📢 [${{ github.repository }}] 有新资源提交！
-📝 提交说明: ${{ github.event.head_commit.message }}
-🔗 查看: https://github.com/${{ github.repository }}/commit/${{ github.sha }}" \
+              --data-urlencode "text=[${{ github.repository }}] 有新资源提交!
+提交说明: ${{ github.event.head_commit.message }}
+查看: https://github.com/${{ github.repository }}/commit/${{ github.sha }}" \
               -d parse_mode="Markdown"
           done
