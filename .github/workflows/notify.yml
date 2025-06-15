@@ -25,8 +25,7 @@ jobs:
               --data-urlencode "text=📢 [${{ github.repository }}] 有新资源提交！
                 👤 作者: ${{ github.actor }}
                 📝 提交说明: ${{ github.event.head_commit.message }}
-                🔗 查看: https://github.com/${{ github.repository }}/commit/${{ github.sha }}" \
-              -d parse_mode="Markdown")
+                🔗 查看: https://github.com/${{ github.repository }}/commit/${{ github.sha }}")
             echo "Telegram response for chat_id $chat: $response"
           done
 
