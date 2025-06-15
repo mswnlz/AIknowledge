@@ -1,0 +1,13 @@
+name: Notify Telegram on Update
+on:
+  push:
+  issues:
+  release:
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: mswnlz/AIknowledge@main
+        with:
+          bot_token: ${{ secrets.BOT_TOKEN }}
+          chat_id: ${{ secrets.CHAT_ID }}
