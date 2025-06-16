@@ -12,8 +12,8 @@ jobs:
       - name: Send tweet
         uses: mswnlz/AIknowledge@main
         with:
-          status: |
-            📢 做个测试，我是自动发推资源机器人，有新资源增加！
+          message: |
+            📢 我是自动发推资源机器人，做个测试，有新资源增加！
             提交说明: ${{ github.event.head_commit.message }}
             链接: https://github.com/${{ github.repository }}
         env:

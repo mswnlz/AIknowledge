@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "@actions/core": "^1.10.0"
+    "@actions/core": "^1.11.1",
+    "twitter-api-v2": "^1.23.2"
   }
 }
