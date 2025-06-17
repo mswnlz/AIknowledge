@@ -13,8 +13,8 @@ jobs:
         uses: mswnlz/AIknowledge@main
         with:
           message: |
-            📢 我是自动发推资源机器人，做个测试，有新资源增加！
-            📝 提交内容: ${{ github.event.head_commit.message }}
+            📢 我是自动发推资源机器人，这里推送AI资料的更新！
+            📝 新增内容: ${{ github.event.head_commit.message }}
             🔗 查看详情: https://github.com/${{ github.repository }}
             🎉 资料分享群：https://t.me/tgmknow")
         env:
