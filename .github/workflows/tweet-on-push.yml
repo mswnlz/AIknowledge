@@ -13,10 +13,9 @@ jobs:
         uses: mswnlz/AIknowledge@main
         with:
           message: |
-            📢 我是自动发推资源机器人，这里推送AI资料的更新！
-            📝 新增内容: ${{ github.event.head_commit.message }}
-            🔗 查看详情: https://github.com/${{ github.repository }}
-            🎉 资料分享群：https://t.me/tgmknow")
+            📝 新增资源: ${{ github.event.head_commit.message }}
+            🔗 查看详情: ${{ github.event.head_commit.url }}
+            📢 资料分享群：https://t.me/tgmknow")
         env:
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_KEY_SECRET }}
