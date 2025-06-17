@@ -14,8 +14,8 @@ jobs:
         with:
           message: |
             📝 新增资源: ${{ github.event.head_commit.message }}
-            🔗 查看详情: ${{ github.event.head_commit.url }} 
-            📢 资料分享群：https://t.me/tgmknow")
+            🔗 查看详情: ${{ github.event.head_commit.url }}
+            📢 资料分享群：https://t.me/tgmknow
         env:
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_KEY_SECRET }}
