@@ -21,7 +21,7 @@ AI相关知识，提示词，教程，视频教程，变现课程等资料，持
 
 [自媒体相关资源，包括拉新，流量玩法、获客，转化、变现等资料，持续更新中](https://github.com/mswnlz/self-media)
 
-[ 教育各种资料，从幼儿园到小学、中学，涵盖学而思，万维、猿辅导等多个机构，持续增加中](https://github.com/mswnlz/edu-knowlege)
+[ 教育各种资料，从幼儿园到小学、中学，涵盖学而思，万维、猿辅导等多个机构，持续更新中](https://github.com/mswnlz/edu-knowlege)
 
 [AI相关知识，提示词，教程，视频教程，变现课程等，持续更新中](https://github.com/mswnlz/AIknowledge)
 
